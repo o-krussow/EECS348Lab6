@@ -1,4 +1,5 @@
 # EECS348Lab6
+```
 ➜  EECS348Lab6 git:(main) ✗ ./lab6
 Owen Krussow
 EECS 348 Lab 6
@@ -22,3 +23,4 @@ Matrix Difference (A-B):
 -1      -1      -1
 -1      -1      -1
 -1      -1      -1
+```
